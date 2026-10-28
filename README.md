@@ -40,3 +40,9 @@ WordPress W mark: https://wordpress.org/about/logos/ . Oracle APEX light icon: s
 Python and Django logos: devicons/devicon, https://github.com/devicons/devicon (MIT). Power BI icon: simple-icons v11, https://github.com/simple-icons/simple-icons (CC0). Brand marks retain their respective owners. Power BI is listed as an additional tool; no Power BI project, proficiency level or work experience is asserted.
 
 Oracle APEX light icon is rendered in navy as a monochrome adaptation for visibility on the white theme; original geometry is preserved.
+
+## Detail pages and interactive samples
+
+11 project detail pages and 6 dedicated skill detail pages use the white and blue theme with 3D interface illustrations, technology tables, and a working browser-local form/table demo. The sample supports adding, searching, status changes, removing, and reset. It is illustrative and does not access client records. Enquiry forms use native validation and prepare a mailto draft; visitors review and send through their own email application. There is no backend submission or fake success state.
+
+Technology badge icons: devicons/devicon (MIT), plus Simple Icons v11 (CC0) for Elementor and Apache ECharts. SQL, responsive UI and chart symbols are original SVG illustrations, as those concepts have no single official logo. Product marks remain the property of their respective owners.
