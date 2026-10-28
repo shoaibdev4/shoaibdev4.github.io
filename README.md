@@ -38,3 +38,5 @@ Website: https://shoaibdev4.github.io/
 WordPress W mark: https://wordpress.org/about/logos/ . Oracle APEX light icon: selfh.st/icons, CC BY 4.0, https://cdn.jsdelivr.net/gh/selfhst/icons/svg/oracle-apex-light.svg . Frontend browser/code illustration is an original SVG. Brand marks identify the technologies used; they do not imply endorsement.
 
 Python and Django logos: devicons/devicon, https://github.com/devicons/devicon (MIT). Power BI icon: simple-icons v11, https://github.com/simple-icons/simple-icons (CC0). Brand marks retain their respective owners. Power BI is listed as an additional tool; no Power BI project, proficiency level or work experience is asserted.
+
+Oracle APEX light icon is rendered in navy as a monochrome adaptation for visibility on the white theme; original geometry is preserved.
